@@ -1,3 +1,7 @@
+## Date and time have been updated,
+date = 12-0-2026
+time = 15:30
+
 # Assignment 1: Sensor Data Generator
 
 ## Description
